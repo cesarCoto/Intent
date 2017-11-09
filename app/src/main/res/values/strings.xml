@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="nombre">nombre</string>
+    <string name="edad">edad</string>
+    <string name="ocupacion">Ocupacion</string>
+    <string name="registro">Registro</string>
+    <string name="atras">atras</string>
+</resources>
